@@ -23,30 +23,24 @@
 
 ## DADOS
 ### Most Used Languages
-<h3 align="left"></h3>
-<p>
+<p align="left" >
   <img 
-     align="left" 
      src="https://github-readme-stats.vercel.app/api/top-langs?username=tiassiisspal&show_icons=true&locale=en&layout=compact" 
      alt="ti-assii-sspal" 
   />
 </p>
 
 ### GitHubs Stats
-<h3 align="left"></h3>
-<p>
+<p  align="left"> 
   <img 
-      align="left" 
       src="https://github-readme-stats.vercel.app/api?username=tiassiisspal&show_icons=true&locale=en&layout=compact" 
       alt="tiassiisspal" 
   />
 </p>
 
 ### Curren Streak
-<h3 align="left"></h3>
-<p>
+<p  align="left" >
   <img 
-     align="left" 
      src="https://github-readme-streak-stats.herokuapp.com/?user=tiassiisspal&" 
      alt="tiassiisspal" 
   />
