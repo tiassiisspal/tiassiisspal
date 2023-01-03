@@ -24,7 +24,7 @@
 ## DADOS
 
 <br><br/>
-
+<h3 align="left"></h3>
 <p>
   <img 
      align="left" 
@@ -34,7 +34,7 @@
 </p>
 
 <br><br/>
-
+<h3 align="left"></h3>
 <p>
   <img 
       align="left" 
@@ -44,7 +44,7 @@
 </p>
 
 <br><br/>
-
+<h3 align="left"></h3>
 <p>
   <img 
      align="left" 
