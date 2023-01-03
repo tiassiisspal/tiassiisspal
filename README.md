@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [udemy](https://www.udemy.com/user/tenroberto2011/)
 
-- 👨‍💻 All of my tutorials are available at [https://optydev-io.xyz](https://optydev-io.xyz)
+- 👨‍💻 All of my tutorials are available at [https://optydev-io.xyz](https://carlosrobertodevops.tech)
 
 - 💬 Ask me about **devops, Software Engineering frontend, backend, security, software architect, good practices!**
 
