@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Cap QOC PM - Carlos Roberto - CTO of TI/ASSII/SSPAL </h1>
 <h3 align="center">The Master of Software Engineering and DevOps</h3>
 
-- 🔭 I’m currently working on [udemy](https://www.udemy.com/user/tenroberto2011/)
+- 🔭 I’m currently working on [linkedin](https://www.linkedin.com/in/carlosrobertodevops/)
 
-- 👨‍💻 All of my tutorials are available at [https://optydev-io.xyz](https://carlosrobertodevops.tech)
+- 👨‍💻 All of my tutorials are available at [https://carlosrobertodevops.tech](https://carlosrobertodevops.tech)
 
 - 💬 Ask me about **devops, Software Engineering frontend, backend, security, software architect, good practices!**
 
